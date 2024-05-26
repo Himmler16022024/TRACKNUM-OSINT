@@ -2,13 +2,17 @@
 
 Assurez-vous d'avoir Python installé ainsi que les bibliothèques phonenumbers et requests. Vous pouvez les installer avec pip si nécessaire :
 
-```pip install phonenumbers requests```
+```
+pip install phonenumbers requests
+```
 
 # Exécuter le script :
 
 Ouvrez un terminal et exécutez le script avec la commande suivante :
 
-```python tracknum.py```
+```
+python tracknum.py
+```
 
 Utiliser le menu :
 
@@ -17,13 +21,15 @@ Suivez les instructions à l'écran pour traquer les informations d'un numéro d
 # 📞 TrackNum Tool :
 
 ## Description
-TrackNum est un script Python simple et efficace permettant de rechercher des informations détaillées sur un numéro de téléphone donné. En utilisant la bibliothèque `phonenumbers`, cet outil fournit des détails tels que la localisation, l'opérateur, le fuseau horaire, et bien plus encore.
+TrackNum est un script Python simple et efficace permettant de rechercher des informations détaillées sur un numéro de téléphone donné. En utilisant la bibliothèque phonenumbers, cet outil fournit des détails tels que la localisation, l'opérateur, le fuseau horaire, et bien plus encore.
 
 ## 📋 Prérequis :
 
-Assurez-vous d'avoir Python installé sur votre machine. Le script utilise la bibliothèque `phonenumbers`, que vous pouvez installer via pip si elle n'est pas déjà présente :
+Assurez-vous d'avoir Python installé sur votre machine. Le script utilise la bibliothèque phonenumbers, que vous pouvez installer via pip si elle n'est pas déjà présente :
 
-```pip install phonenumbers requests```
+```
+pip install phonenumbers requests
+```
 
 🛠️ Utilisation
 
