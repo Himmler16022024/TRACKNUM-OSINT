@@ -28,8 +28,10 @@ Assurez-vous d'avoir Python installé sur votre machine. Le script utilise la bi
 🛠️ Utilisation
 
 Ouvrez un terminal. Exécutez le script avec la commande suivante :
-
+```
 python tracknum.py
+```
+
 # 📊 Exemple de sortie
 
 ```
